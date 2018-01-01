@@ -1,6 +1,5 @@
-<span>Aurora Guide</span></h3>
-<br>
-<br>
+
+
 <div style="text-align: center"><img src="http://xboxunity.net/Resources/Images/RMS.Front.Page.Aurora.By.Phoenix.png" class="resizeImage" alt=""></div><br>
 <br>
 <div style="text-align: center">Bei Aurora handelt es sich wie beim FSD und XexMenu um ein weiteres, alternatives Dashboard für JTAG/Glitch Xbox 360 Konsolen. Es ist gut strukturiert aufgebaut, leicht zu bedienen und bietet ein paar neue grafische Aspekte zum FreeStyleDash.<br>
