@@ -15,6 +15,6 @@ Additionally, It is recommend to remove the CFEditDLL.xex when you are not using
 <br class="ng-scope">
 <b class="ng-scope">Screens</b><br class="ng-scope">
 <br class="ng-scope">
-<a href="images/cfe.001.jpg" target="_blank" class="ng-scope"><img src="../../Docs/images/cfe.001.jpg" style="display:block; margin:0 auto"></a><br class="ng-scope">
+<a href="images/cfe.001.jpg" target="_blank" class="ng-scope"><img src="http://phoenix.xboxunity.net/images/cfe.001.jpg" style="display:block; margin:0 auto"></a><br class="ng-scope">
 <br class="ng-scope">
-<a href="images/cfe.002.jpg" target="_blank" class="ng-scope"><img src="../../Docs/images/cfe.002.jpg" style="display:block; margin:0 auto"></a>
+<a href="images/cfe.002.jpg" target="_blank" class="ng-scope"><img src="http://phoenix.xboxunity.net/images/cfe.002.jpg" style="display:block; margin:0 auto"></a>
