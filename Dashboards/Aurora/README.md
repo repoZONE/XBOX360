@@ -1,8 +1,5 @@
 <span>Aurora Guide</span></h3>
-							
-							<div class="messageBody">
-																<div id="postText456804">
-									Hier wie versprochen der kleine Anleitungsthread zu Aurora, welches letzte Woche von ehemaligen TeamFSD Mitglieder veröffentlicht wurde.<br>
+<br>
 <br>
 <div style="text-align: center"><img src="http://xboxunity.net/Resources/Images/RMS.Front.Page.Aurora.By.Phoenix.png" class="resizeImage" alt=""></div><br>
 <br>
