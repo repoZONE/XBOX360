@@ -2,6 +2,14 @@
 
 [logo]: Docs/logo.jpg
 
+
+<b>Boxart</b>
+
+<a href=""></a>
+
+
+
+
 <b>FEATURES</b>
 
 - Just one build. No more 2 builds(old and new cdr plugin). Cdda
